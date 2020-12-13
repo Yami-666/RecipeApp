@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="email_or_phone_number">Email or phone number</string>
+    <string name="atleast_6_characters">Atleast 6 characters</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome!</string>
+    <string name="contains_a_number">Contains a number</string>
+    <string name="please_enter_your_account_here">Please enter your account here</string>
+    <string name="your_name">Your name</string>
+    <string name="your_password_must_contain">Your Password must contain:</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+</resources>
