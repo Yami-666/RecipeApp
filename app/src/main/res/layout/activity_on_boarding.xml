@@ -36,7 +36,8 @@ to cook better food!"
         app:layout_constraintHorizontal_bias="0.4"
         app:layout_constraintStart_toStartOf="@+id/textView"
         app:layout_constraintTop_toBottomOf="@+id/textView"
-        app:layout_constraintVertical_bias="1.0" />
+        app:layout_constraintVertical_bias="1.0"
+        />
 
     <TextView
         android:id="@+id/textView2"
@@ -44,7 +45,7 @@ to cook better food!"
         android:layout_height="wrap_content"
         android:fontFamily="@font/inter_bold"
         android:text="Start Cooking"
-        android:textColor="@color/main_text_color"
+        android:textColor="@color/main_text"
         android:textSize="22sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
